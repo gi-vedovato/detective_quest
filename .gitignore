@@ -1,0 +1,15 @@
+# Object files
+*.o
+
+# Executable
+detective_quest
+
+# Editor files
+*.swp
+*~
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+*.code-workspace
